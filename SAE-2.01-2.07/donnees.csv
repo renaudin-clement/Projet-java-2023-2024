@@ -1,0 +1,667 @@
+nom,prenom,sexe,pays_choice,NomEpreuve,IDepreuve,Sport,TypeEpreuve,NbParticipant,Record,Moyenne,force,endurance,agilite
+Maier,Johanna,F,Allemagne,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,15,5,19
+Wang,Zhu,F,Japon,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,7,13,8
+Yang,Fang,F,Allemagne,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,19,16,12
+Morel,Noé,F,Turquie,Escrime fleuret,13,Epeeisme,Duel,1,null,null,3,16,15
+Xu,Sun,F,Maroc,Escrime fleuret,15,Epeeisme,Duel,1,null,null,12,1,19
+Becker,Elias,F,France,Volley-Ball,10,Ballin,Duel,8,null,null,7,2,9
+Dupont,Zoé,H,Brésil,Escrime epée,17,Epeeisme,Duel,1,null,null,2,6,13
+Sakai,Rin,H,USA,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,16,10,13
+Wang,Guo,F,Maroc,Handball,7,Ballin,Duel,10,null,null,6,18,16
+Nakamura,Yuto,H,Allemagne,Escrime epée,18,Epeeisme,Duel,1,null,null,18,3,1
+Yang,Wang,H,Chine,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,17,6,9
+Garcia,Raphaël,H,Maroc,Escrime epée,16,Epeeisme,Duel,1,null,null,15,18,8
+Vincent,Alice,H,USA,Escrime fleuret,13,Epeeisme,Duel,1,null,null,20,16,20
+Kimura,Yuna,F,France,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,10,3,19
+Lefebvre,Léa,H,Allemagne,Escrime fleuret,14,Epeeisme,Duel,1,null,null,4,18,9
+Sakai,Yuto,H,Kenya,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,2,14,9
+Yoshida,Haruto,H,Brésil,Natation relais libre,5,Natation,Score,4,34.3,45.7,1,19,5
+Petit,Arthur,H,Chine,Handball,9,Ballin,Duel,10,null,null,1,1,6
+Yamamoto,Yui,H,Allemagne,Escrime fleuret,15,Epeeisme,Duel,1,null,null,11,9,13
+Li,Xue,F,France,Escrime epée,16,Epeeisme,Duel,1,null,null,5,8,14
+Giraud,Maëlys,F,Turquie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,20,16,3
+Ito,Sakura,F,Allemagne,Escrime epée,17,Epeeisme,Duel,1,null,null,20,11,11
+Kobayashi,Shiori,H,Kenya,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,12,13,6
+Murakami,Sora,H,Brésil,Volley-Ball,10,Ballin,Duel,8,null,null,4,3,9
+Takahashi,Riko,F,Australie,Escrime epée,18,Epeeisme,Duel,1,null,null,13,10,19
+Matsumoto,Shiori,F,Brésil,Escrime fleuret,15,Epeeisme,Duel,1,null,null,16,5,7
+Zimmermann,Jonas,H,Japon,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,16,14,2
+Yamaguchi,Takumi,F,Turquie,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,6,3,4
+Xu,Zhao,F,Japon,Escrime fleuret,15,Epeeisme,Duel,1,null,null,19,15,5
+Blanc,Noé,H,Brésil,Natation relais libre,5,Natation,Score,4,34.3,45.7,9,17,14
+Gao,Huang,F,Japon,Escrime fleuret,15,Epeeisme,Duel,1,null,null,12,17,12
+Krüger,Maja,H,Chine,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,5,1,11
+Guo,Xin,F,Maroc,Handball,8,Ballin,Duel,10,null,null,16,12,4
+Zhang,Wu,H,Allemagne,Escrime fleuret,14,Epeeisme,Duel,1,null,null,4,5,6
+Kondo,Yusuke,F,USA,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,14,11,15
+Wang,Sun,F,Chine,Volley-Ball,12,Ballin,Duel,8,null,null,20,15,13
+Kondo,Haruto,F,Australie,Volley-Ball,10,Ballin,Duel,8,null,null,4,1,10
+Ishii,Yuma,H,Turquie,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,9,3,1
+Morel,Louis,F,France,Volley-Ball,12,Ballin,Duel,8,null,null,10,2,2
+Zhao,Chen,H,Japon,Volley-Ball,11,Ballin,Duel,8,null,null,14,2,10
+Zhu,Li,H,Japon,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,13,1,4
+Fujita,Naoki,F,Brésil,Volley-Ball,12,Ballin,Duel,8,null,null,13,14,17
+Mori,Nana,H,Maroc,Volley-Ball,11,Ballin,Duel,8,null,null,17,7,7
+Laurent,Clara,F,Chine,Volley-Ball,12,Ballin,Duel,8,null,null,9,16,8
+Gao,Ma,F,Allemagne,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,16,3,15
+Guo,Fang,F,France,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,17,14,5
+Kato,Rina,H,Turquie,Handball,9,Ballin,Duel,10,null,null,3,10,7
+Richard,Emma,H,Brésil,Handball,8,Ballin,Duel,10,null,null,5,5,3
+Wang,Yang,F,Kenya,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,2,19,19
+Durand,Manon,H,Brésil,Escrime fleuret,13,Epeeisme,Duel,1,null,null,12,8,13
+Huang,Qian,H,Brésil,Handball,8,Ballin,Duel,10,null,null,3,13,9
+Goto,Yuma,H,Allemagne,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,19,9,16
+Robert,Anna,H,Brésil,Escrime epée,17,Epeeisme,Duel,1,null,null,17,18,11
+Petit,Nolan,H,Maroc,Volley-Ball,10,Ballin,Duel,8,null,null,10,8,11
+Mori,Takeshi,H,Allemagne,Escrime fleuret,14,Epeeisme,Duel,1,null,null,20,13,4
+Watanabe,Ren,F,Australie,Handball,8,Ballin,Duel,10,null,null,16,18,18
+Suzuki,Yuki,H,Maroc,Escrime fleuret,15,Epeeisme,Duel,1,null,null,10,12,4
+Takahashi,Shiori,H,Brésil,Natation relais libre,4,Natation,Score,4,34.3,45.7,7,6,20
+Zhao,Wu,H,Australie,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,11,5,16
+Zhang,Jing,H,Japon,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,5,10,2
+Thomas,Emma,H,Australie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,18,18,5
+Girard,Louise,H,Brésil,Escrime fleuret,14,Epeeisme,Duel,1,null,null,6,11,2
+Murakami,Sakura,H,Brésil,Escrime fleuret,13,Epeeisme,Duel,1,null,null,5,13,4
+Vincent,Jules,H,Chine,Escrime epée,17,Epeeisme,Duel,1,null,null,9,2,4
+Xu,Ling,F,Australie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,3,12,16
+Ito,Hiroshi,F,Allemagne,Escrime epée,16,Epeeisme,Duel,1,null,null,6,16,8
+Durand,Clara,H,Brésil,Handball,7,Ballin,Duel,10,null,null,7,4,8
+Morel,Louis,H,Maroc,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,20,14,19
+Ogawa,Yusuke,H,Chine,Natation relais libre,6,Natation,Score,4,34.3,45.7,13,20,6
+Zhu,Min,H,Turquie,Handball,9,Ballin,Duel,10,null,null,20,18,10
+Yang,Xue,H,USA,Volley-Ball,11,Ballin,Duel,8,null,null,6,3,15
+Maier,Emma,F,Chine,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,14,5,13
+Thomas,Léa,F,Turquie,Volley-Ball,11,Ballin,Duel,8,null,null,17,5,17
+Ma,Zhang,H,Allemagne,Escrime fleuret,15,Epeeisme,Duel,1,null,null,3,4,10
+He,Xue,F,Maroc,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,8,17,5
+Wu,He,F,Japon,Escrime epée,17,Epeeisme,Duel,1,null,null,3,10,5
+Hu,Xin,H,Kenya,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,19,8,14
+Sakai,Rin,F,Maroc,Natation relais libre,5,Natation,Score,4,34.3,45.7,6,11,11
+Matsumoto,Yuna,F,Turquie,Escrime epée,17,Epeeisme,Duel,1,null,null,18,6,3
+Thomas,Léna,F,France,Handball,7,Ballin,Duel,10,null,null,13,2,12
+Moreau,Sarah,F,France,Escrime fleuret,13,Epeeisme,Duel,1,null,null,1,14,11
+Kobayashi,Naoki,H,Chine,Natation relais libre,5,Natation,Score,4,34.3,45.7,11,8,20
+Blanc,Raphaël,H,Maroc,Volley-Ball,10,Ballin,Duel,8,null,null,17,18,12
+Kobayashi,Ryota,F,Kenya,Escrime epée,18,Epeeisme,Duel,1,null,null,12,6,12
+Nakamura,Asuka,F,Japon,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,9,5,1
+Kobayashi,Kaito,F,Turquie,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,14,17,19
+Vincent,Sarah,H,Maroc,Volley-Ball,11,Ballin,Duel,8,null,null,15,19,17
+Lefebvre,Zoé,H,Brésil,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,17,14,13
+Lange,Jakob,H,France,Volley-Ball,10,Ballin,Duel,8,null,null,8,20,1
+Liu,Ling,H,Allemagne,Handball,9,Ballin,Duel,10,null,null,19,16,6
+Zimmermann,Simon,H,Brésil,Escrime fleuret,14,Epeeisme,Duel,1,null,null,11,3,6
+Hu,Xu,H,Japon,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,12,6,9
+Vincent,Mathis,F,Turquie,Volley-Ball,10,Ballin,Duel,8,null,null,4,12,7
+Lehmann,Luisa,H,Japon,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,8,13,12
+Sakai,Kaito,F,USA,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,7,15,11
+Matsumoto,Yusuke,F,Kenya,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,3,16,2
+Fournier,Gabin,H,Kenya,Escrime epée,18,Epeeisme,Duel,1,null,null,7,5,4
+Wang,Wu,H,Turquie,Escrime epée,18,Epeeisme,Duel,1,null,null,10,3,9
+Yang,Lan,H,Allemagne,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,14,10,12
+Barbier,Lucas,F,France,Natation relais libre,6,Natation,Score,4,34.3,45.7,5,1,5
+Suzuki,Shiori,F,Turquie,Handball,9,Ballin,Duel,10,null,null,6,11,16
+Liu,He,F,Kenya,Escrime epée,18,Epeeisme,Duel,1,null,null,7,15,13
+Li,Hong,F,Australie,Escrime fleuret,13,Epeeisme,Duel,1,null,null,7,8,5
+Zhao,Yan,F,Allemagne,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,16,15,7
+Huang,Yang,F,Maroc,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,20,5,12
+Sakamoto,Yuki,F,Allemagne,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,17,9,19
+Dubois,Emma,H,Turquie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,15,18,14
+Chen,Zhang,F,Maroc,Natation relais libre,5,Natation,Score,4,34.3,45.7,2,9,20
+Kato,Daiki,H,Allemagne,Escrime fleuret,13,Epeeisme,Duel,1,null,null,6,6,11
+Kato,Hinata,F,USA,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,16,3,9
+Kimura,Kaito,H,France,Escrime epée,16,Epeeisme,Duel,1,null,null,14,9,2
+Nakamura,Hiroshi,F,Maroc,Natation relais libre,6,Natation,Score,4,34.3,45.7,5,1,16
+Petit,Camille,H,Brésil,Escrime epée,17,Epeeisme,Duel,1,null,null,5,4,20
+Yang,Xu,H,Australie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,1,12,1
+Hu,Ting,F,Allemagne,Escrime fleuret,15,Epeeisme,Duel,1,null,null,12,1,6
+Sato,Sosuke,F,Brésil,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,4,13,10
+Lefevre,Chloé,H,France,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,17,2,1
+Durand,Lucas,H,Australie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,13,8,10
+Girard,Louis,H,Australie,Volley-Ball,11,Ballin,Duel,8,null,null,1,14,9
+Maeda,Ryota,F,Chine,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,7,10,9
+Richard,Noé,F,Kenya,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,10,9,14
+Wang,Xia,F,USA,Volley-Ball,10,Ballin,Duel,8,null,null,5,12,18
+Braun,Mia,F,USA,Escrime epée,17,Epeeisme,Duel,1,null,null,1,14,15
+Fournier,Alice,H,Maroc,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,17,13,13
+Zhang,Qian,H,Australie,Escrime fleuret,13,Epeeisme,Duel,1,null,null,6,11,9
+Sun,Ling,F,Australie,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,16,18,14
+Kato,Takeshi,H,France,Volley-Ball,10,Ballin,Duel,8,null,null,2,18,12
+Li,Shuang,H,Japon,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,7,13,11
+Inoue,Takumi,F,Turquie,Natation relais libre,5,Natation,Score,4,34.3,45.7,18,10,10
+Suzuki,Yusuke,F,Japon,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,7,3,11
+Chen,Hu,H,Japon,Escrime epée,18,Epeeisme,Duel,1,null,null,15,6,2
+Fournier,Emma,F,Brésil,Handball,7,Ballin,Duel,10,null,null,16,3,6
+Matsumoto,Rina,H,Chine,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,9,11,18
+Liu,Ma,F,USA,Escrime fleuret,15,Epeeisme,Duel,1,null,null,14,13,11
+Bernard,Clara,F,Australie,Handball,9,Ballin,Duel,10,null,null,3,13,15
+Li,Zhu,H,USA,Volley-Ball,11,Ballin,Duel,8,null,null,8,6,14
+Inoue,Kaito,H,Allemagne,Natation relais libre,4,Natation,Score,4,34.3,45.7,15,5,9
+Vincent,Manon,F,France,Escrime fleuret,13,Epeeisme,Duel,1,null,null,7,12,6
+Takahashi,Riko,F,France,Natation relais libre,5,Natation,Score,4,34.3,45.7,19,5,12
+Zhao,Chen,H,Allemagne,Handball,8,Ballin,Duel,10,null,null,8,4,5
+Müller,Jonas,F,France,Handball,9,Ballin,Duel,10,null,null,12,7,13
+Yamada,Sakura,H,France,Handball,9,Ballin,Duel,10,null,null,9,10,4
+Zhou,Shuang,F,Kenya,Handball,8,Ballin,Duel,10,null,null,15,9,16
+Shibata,Naoki,H,Japon,Handball,8,Ballin,Duel,10,null,null,5,18,16
+Guerin,Tom,H,Maroc,Natation relais libre,5,Natation,Score,4,34.3,45.7,12,19,16
+He,Wu,H,USA,Escrime fleuret,15,Epeeisme,Duel,1,null,null,4,7,6
+Shimizu,Hana,F,Brésil,Escrime epée,17,Epeeisme,Duel,1,null,null,17,17,1
+Goto,Rina,H,Chine,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,14,18,3
+Huang,Wu,F,Japon,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,18,4,11
+Ishii,Saki,H,France,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,10,17,10
+Zhao,Ling,H,Turquie,Escrime fleuret,14,Epeeisme,Duel,1,null,null,19,9,8
+Zhao,Yan,H,France,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,7,3,6
+Zhou,Guo,F,Maroc,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,15,9,2
+Sakamoto,Yuma,F,Chine,Escrime fleuret,15,Epeeisme,Duel,1,null,null,12,19,1
+Ishii,Mio,H,Australie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,4,3,14
+Hayashi,Yusuke,F,Chine,Handball,9,Ballin,Duel,10,null,null,1,8,3
+Garcia,Jules,F,Maroc,Volley-Ball,10,Ballin,Duel,8,null,null,10,10,10
+Suzuki,Ren,H,Turquie,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,9,17,7
+Blanc,Léna,F,Kenya,Handball,7,Ballin,Duel,10,null,null,10,10,9
+Mori,Haruka,F,France,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,8,1,10
+Kondo,Yui,H,Turquie,Escrime fleuret,15,Epeeisme,Duel,1,null,null,2,13,12
+Suzuki,Yuki,F,Brésil,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,14,9,2
+Sun,Sun,H,Brésil,Natation relais libre,5,Natation,Score,4,34.3,45.7,12,6,6
+Girard,Louise,H,France,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,3,4,7
+Huang,Xiang,H,Brésil,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,16,5,19
+Wang,Chen,F,France,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,10,16,6
+Morel,Juliette,F,USA,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,1,2,8
+Hu,Hui,F,Allemagne,Escrime epée,17,Epeeisme,Duel,1,null,null,5,8,17
+Zhou,Min,H,Maroc,Escrime epée,16,Epeeisme,Duel,1,null,null,1,3,11
+Fournier,Manon,F,Maroc,Volley-Ball,12,Ballin,Duel,8,null,null,1,2,4
+Lefebvre,Inès,F,Australie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,15,14,13
+Vincent,Louise,F,USA,Volley-Ball,11,Ballin,Duel,8,null,null,6,7,19
+Kimura,Haruto,F,Kenya,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,6,16,10
+Wu,Wang,H,Kenya,Handball,7,Ballin,Duel,10,null,null,3,2,4
+Morel,Tom,F,Japon,Handball,7,Ballin,Duel,10,null,null,7,2,1
+Guo,Huang,F,Maroc,Volley-Ball,11,Ballin,Duel,8,null,null,8,16,14
+Yamada,Asuka,H,Brésil,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,7,9,7
+Lambert,Alice,H,Australie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,17,1,1
+Watanabe,Hiroshi,H,Allemagne,Natation relais libre,6,Natation,Score,4,34.3,45.7,11,14,20
+Lambert,Hugo,F,Kenya,Volley-Ball,11,Ballin,Duel,8,null,null,1,6,4
+Yoshida,Haruto,F,France,Natation relais libre,4,Natation,Score,4,34.3,45.7,4,4,7
+Dubois,Zoé,F,Kenya,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,5,4,17
+Perez,Alice,F,Chine,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,6,16,10
+Hu,Huang,F,Kenya,Natation relais libre,5,Natation,Score,4,34.3,45.7,11,7,8
+Hasegawa,Hiroshi,F,Allemagne,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,18,19,4
+Matsumoto,Yuna,H,Allemagne,Handball,9,Ballin,Duel,10,null,null,6,6,17
+Mori,Yuki,F,Japon,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,19,3,11
+Girard,Zoé,F,Allemagne,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,14,2,18
+Richard,Gabin,H,Allemagne,Escrime fleuret,15,Epeeisme,Duel,1,null,null,3,19,18
+Lange,Tom,H,Allemagne,Escrime fleuret,14,Epeeisme,Duel,1,null,null,14,12,13
+Robin,Tom,F,Brésil,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,11,9,17
+Ishii,Saki,F,Australie,Escrime epée,18,Epeeisme,Duel,1,null,null,1,18,20
+Mori,Rina,H,France,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,12,10,6
+Murakami,Rina,F,Maroc,Natation relais libre,4,Natation,Score,4,34.3,45.7,17,17,19
+Leroy,Nolan,H,Maroc,Natation relais libre,4,Natation,Score,4,34.3,45.7,16,2,14
+Zhu,Zhu,H,Turquie,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,14,12,5
+Lange,Emily,H,France,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,3,14,5
+Braun,Tim,F,France,Volley-Ball,11,Ballin,Duel,8,null,null,6,6,9
+Sasaki,Riku,H,Allemagne,Escrime epée,16,Epeeisme,Duel,1,null,null,17,4,14
+Ishii,Yusuke,H,Kenya,Natation relais libre,6,Natation,Score,4,34.3,45.7,3,9,9
+Zhang,Yang,F,Maroc,Volley-Ball,12,Ballin,Duel,8,null,null,15,19,8
+Ito,Kaito,F,USA,Escrime epée,16,Epeeisme,Duel,1,null,null,6,6,4
+Wolf,Felix,F,Brésil,Escrime epée,16,Epeeisme,Duel,1,null,null,8,6,20
+Ma,Jing,H,Allemagne,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,2,1,20
+Saito,Ren,H,Turquie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,15,11,1
+Yang,Xu,H,France,Volley-Ball,12,Ballin,Duel,8,null,null,6,2,18
+Hu,Yang,F,Australie,Escrime epée,17,Epeeisme,Duel,1,null,null,13,14,3
+Kondo,Rin,H,Brésil,Escrime epée,17,Epeeisme,Duel,1,null,null,11,5,2
+Mori,Hiroshi,H,Brésil,Handball,7,Ballin,Duel,10,null,null,3,14,6
+Saito,Shiori,F,Turquie,Escrime epée,17,Epeeisme,Duel,1,null,null,2,20,1
+Robin,Léna,H,Turquie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,4,7,17
+Kato,Kokoro,H,Japon,Handball,7,Ballin,Duel,10,null,null,16,18,1
+Hasegawa,Hiroshi,H,Japon,Natation relais libre,6,Natation,Score,4,34.3,45.7,7,14,14
+Goto,Aoi,F,Japon,Natation relais libre,4,Natation,Score,4,34.3,45.7,7,4,19
+Garcia,Paul,H,France,Volley-Ball,11,Ballin,Duel,8,null,null,6,4,5
+Schmitt,Maja,F,Maroc,Volley-Ball,12,Ballin,Duel,8,null,null,8,5,13
+Sun,Min,F,Allemagne,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,17,9,16
+Tanaka,Naoki,F,Turquie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,1,9,12
+Ma,Ma,F,Turquie,Volley-Ball,11,Ballin,Duel,8,null,null,15,14,19
+Zhu,Chen,F,Maroc,Natation relais libre,6,Natation,Score,4,34.3,45.7,20,15,13
+Hayashi,Hana,H,Chine,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,3,20,19
+Sasaki,Haruto,F,Brésil,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,17,14,4
+Zhu,Ma,H,France,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,2,14,17
+Schmid,Emily,H,Allemagne,Escrime epée,18,Epeeisme,Duel,1,null,null,14,10,4
+Sasaki,Saki,F,France,Volley-Ball,12,Ballin,Duel,8,null,null,8,18,10
+Koch,Lukas,H,Australie,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,19,5,14
+Yamaguchi,Yuki,F,Kenya,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,6,11,1
+Chen,Li,F,Brésil,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,5,18,9
+Mori,Saki,F,Australie,Volley-Ball,10,Ballin,Duel,8,null,null,15,2,18
+Takahashi,Daiki,F,Australie,Volley-Ball,10,Ballin,Duel,8,null,null,14,18,1
+Schäfer,Leon,H,France,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,12,12,7
+Gao,Yan,F,Kenya,Handball,9,Ballin,Duel,10,null,null,10,19,13
+Guo,Zhu,F,Brésil,Natation relais libre,4,Natation,Score,4,34.3,45.7,20,2,17
+Yang,Ting,F,Brésil,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,15,20,16
+Takahashi,Yuki,H,Kenya,Volley-Ball,10,Ballin,Duel,8,null,null,1,16,15
+Shimizu,Ren,H,Chine,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,9,1,6
+Mercier,Sarah,H,Kenya,Escrime epée,16,Epeeisme,Duel,1,null,null,10,7,16
+Fischer,Niklas,F,France,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,3,6,10
+Hayashi,Ryota,H,Australie,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,6,18,16
+Hoffmann,Emilia,F,Turquie,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,17,13,10
+Faure,Tom,H,France,Handball,7,Ballin,Duel,10,null,null,6,7,3
+Dubois,Alice,F,Kenya,Volley-Ball,10,Ballin,Duel,8,null,null,16,11,15
+Zhang,Yan,F,France,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,10,10,2
+Vincent,Emma,H,Australie,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,12,20,16
+Perez,Paul,F,Chine,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,2,7,20
+Schulz,Finn,F,Maroc,Natation relais libre,5,Natation,Score,4,34.3,45.7,13,8,4
+Hayashi,Kazuki,H,Maroc,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,19,17,17
+Girard,Lola,H,Allemagne,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,6,8,2
+Ito,Hana,H,Turquie,Escrime fleuret,13,Epeeisme,Duel,1,null,null,10,9,12
+Hu,Xin,H,Maroc,Volley-Ball,10,Ballin,Duel,8,null,null,6,17,18
+Dupont,Paul,H,France,Volley-Ball,10,Ballin,Duel,8,null,null,9,19,3
+Zhou,Huang,H,USA,Escrime fleuret,13,Epeeisme,Duel,1,null,null,13,18,3
+Guo,Liu,F,USA,Handball,8,Ballin,Duel,10,null,null,6,14,20
+Guerin,Nolan,F,Maroc,Handball,7,Ballin,Duel,10,null,null,20,4,14
+Giraud,Sarah,F,Australie,Escrime fleuret,15,Epeeisme,Duel,1,null,null,7,3,8
+Chen,Jun,F,USA,Natation relais libre,4,Natation,Score,4,34.3,45.7,3,10,12
+Ishii,Mio,F,Turquie,Escrime fleuret,14,Epeeisme,Duel,1,null,null,3,17,1
+Yoshida,Asuka,F,Australie,Volley-Ball,11,Ballin,Duel,8,null,null,12,3,8
+Blanc,Ethan,H,Allemagne,Volley-Ball,11,Ballin,Duel,8,null,null,17,16,18
+Ogawa,Ren,F,Maroc,Volley-Ball,10,Ballin,Duel,8,null,null,19,14,18
+Liu,Hu,H,Australie,Escrime fleuret,15,Epeeisme,Duel,1,null,null,11,17,11
+Yamada,Riko,F,Maroc,Escrime fleuret,13,Epeeisme,Duel,1,null,null,14,8,7
+Lefebvre,Gabriel,H,Australie,Natation relais libre,5,Natation,Score,4,34.3,45.7,19,2,11
+Robin,Maëlys,H,Australie,Escrime epée,17,Epeeisme,Duel,1,null,null,13,3,7
+Kato,Takumi,H,France,Handball,8,Ballin,Duel,10,null,null,13,14,7
+Lefebvre,Camille,F,Turquie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,12,10,10
+Zhang,Min,H,Allemagne,Handball,7,Ballin,Duel,10,null,null,2,8,18
+Fujita,Hinata,H,Brésil,Handball,7,Ballin,Duel,10,null,null,19,15,19
+Takahashi,Hana,F,Turquie,Escrime fleuret,13,Epeeisme,Duel,1,null,null,18,20,16
+Fujita,Asuka,H,Brésil,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,13,13,4
+Yang,Chen,F,Australie,Volley-Ball,12,Ballin,Duel,8,null,null,6,20,20
+He,Li,F,Turquie,Handball,8,Ballin,Duel,10,null,null,16,5,5
+Yamamoto,Yuma,H,Japon,Escrime fleuret,13,Epeeisme,Duel,1,null,null,12,2,18
+Ma,Yiming,F,Turquie,Handball,9,Ballin,Duel,10,null,null,12,5,7
+Takahashi,Rina,F,Australie,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,10,15,14
+Robert,Zoé,H,Kenya,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,17,14,17
+Krüger,Ben,F,France,Volley-Ball,12,Ballin,Duel,8,null,null,20,10,13
+Roux,Hugo,H,Japon,Natation relais libre,4,Natation,Score,4,34.3,45.7,8,9,15
+Sakai,Naoki,H,USA,Escrime fleuret,13,Epeeisme,Duel,1,null,null,11,19,3
+Li,Hu,H,Maroc,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,9,9,1
+Li,Ting,F,Allemagne,Volley-Ball,12,Ballin,Duel,8,null,null,20,15,4
+Zhang,Wang,H,Australie,Escrime epée,18,Epeeisme,Duel,1,null,null,6,4,12
+Matsumoto,Saki,H,Turquie,Volley-Ball,12,Ballin,Duel,8,null,null,7,6,10
+Li,Chen,H,Japon,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,18,15,20
+Robin,Paul,H,Brésil,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,13,7,18
+He,Chen,F,USA,Handball,7,Ballin,Duel,10,null,null,19,3,20
+Yamaguchi,Yuna,F,Turquie,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,9,19,4
+Muller,Camille,F,Australie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,14,1,9
+Kato,Kazuki,F,Kenya,Handball,8,Ballin,Duel,10,null,null,9,8,6
+Ito,Kokoro,H,Turquie,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,16,17,5
+Huang,Qian,F,Japon,Volley-Ball,12,Ballin,Duel,8,null,null,13,20,12
+Schwarz,Sophie,H,Maroc,Escrime fleuret,14,Epeeisme,Duel,1,null,null,18,4,2
+Kimura,Yuna,F,Allemagne,Escrime fleuret,15,Epeeisme,Duel,1,null,null,12,19,11
+Ishikawa,Hinata,H,Turquie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,11,4,19
+Krause,Lina,H,Brésil,Escrime fleuret,13,Epeeisme,Duel,1,null,null,19,10,20
+Robin,Emma,F,Brésil,Volley-Ball,12,Ballin,Duel,8,null,null,15,18,7
+Koch,Tim,F,USA,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,10,6,5
+Takahashi,Ryota,H,Turquie,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,20,8,20
+Suzuki,Takeshi,H,Maroc,Natation relais libre,4,Natation,Score,4,34.3,45.7,15,11,13
+Lange,Marie,H,Maroc,Escrime fleuret,13,Epeeisme,Duel,1,null,null,2,9,9
+Durand,Nolan,F,Maroc,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,7,18,8
+He,Min,F,Allemagne,Escrime epée,16,Epeeisme,Duel,1,null,null,12,16,20
+Fujita,Takumi,H,Australie,Handball,7,Ballin,Duel,10,null,null,5,10,3
+Inoue,Ryota,F,Maroc,Escrime fleuret,14,Epeeisme,Duel,1,null,null,8,3,6
+Wu,Xu,H,Maroc,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,12,9,12
+Wu,Zhu,F,Australie,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,16,1,2
+Zhang,Jun,F,USA,Escrime epée,16,Epeeisme,Duel,1,null,null,19,7,12
+Goto,Takeshi,F,USA,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,10,4,17
+Lehmann,Ben,H,Japon,Volley-Ball,11,Ballin,Duel,8,null,null,10,14,1
+Shimizu,Naoki,H,Turquie,Natation relais libre,4,Natation,Score,4,34.3,45.7,3,7,2
+Lin,Wang,H,Allemagne,Handball,7,Ballin,Duel,10,null,null,18,8,5
+Zhao,Xiang,H,Australie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,2,18,17
+Fournier,Paul,H,Japon,Escrime fleuret,13,Epeeisme,Duel,1,null,null,12,19,16
+Zhu,Wei,H,Maroc,Natation relais libre,5,Natation,Score,4,34.3,45.7,19,12,13
+Perez,Jules,H,Turquie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,11,2,6
+Roux,Maëlys,H,Australie,Volley-Ball,10,Ballin,Duel,8,null,null,19,8,18
+Sato,Akira,H,Allemagne,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,11,18,3
+Takahashi,Hiroshi,H,Australie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,12,5,11
+Tanaka,Yusuke,F,Turquie,Natation relais libre,6,Natation,Score,4,34.3,45.7,20,19,12
+Zhang,Ling,H,Kenya,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,14,14,3
+He,Fang,H,Kenya,Volley-Ball,10,Ballin,Duel,8,null,null,9,9,2
+He,Yiming,H,Australie,Escrime fleuret,15,Epeeisme,Duel,1,null,null,10,14,3
+Ito,Naoki,F,France,Escrime fleuret,15,Epeeisme,Duel,1,null,null,19,1,3
+Thomas,Gabriel,F,USA,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,3,8,16
+Martin,Alice,H,Brésil,Handball,9,Ballin,Duel,10,null,null,13,12,19
+Li,Zhang,H,Chine,Volley-Ball,12,Ballin,Duel,8,null,null,5,18,9
+Xu,Hu,H,Allemagne,Escrime fleuret,14,Epeeisme,Duel,1,null,null,9,1,12
+Yamaguchi,Mio,F,Chine,Escrime epée,16,Epeeisme,Duel,1,null,null,8,17,20
+Mori,Hinata,H,Allemagne,Escrime epée,17,Epeeisme,Duel,1,null,null,1,2,1
+Yamaguchi,Yuki,H,USA,Escrime fleuret,13,Epeeisme,Duel,1,null,null,2,17,3
+Ogawa,Kokoro,H,Maroc,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,18,8,2
+Yang,Chen,F,USA,Escrime epée,16,Epeeisme,Duel,1,null,null,6,20,14
+Watanabe,Yuna,H,USA,Handball,7,Ballin,Duel,10,null,null,6,11,17
+Werner,Julian,H,France,Volley-Ball,11,Ballin,Duel,8,null,null,1,18,12
+Goto,Akira,F,Australie,Handball,7,Ballin,Duel,10,null,null,11,1,6
+Suzuki,Yusuke,H,Brésil,Volley-Ball,11,Ballin,Duel,8,null,null,10,9,3
+Yoshida,Yusuke,H,France,Volley-Ball,10,Ballin,Duel,8,null,null,12,5,10
+Ito,Takumi,H,Brésil,Escrime fleuret,14,Epeeisme,Duel,1,null,null,3,7,17
+Ogawa,Yuna,H,France,Escrime fleuret,15,Epeeisme,Duel,1,null,null,16,10,8
+Ishikawa,Sakura,F,Kenya,Handball,7,Ballin,Duel,10,null,null,11,8,13
+Garcia,Gabin,F,Chine,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,11,16,3
+Zhang,Xia,F,France,Escrime fleuret,15,Epeeisme,Duel,1,null,null,16,13,14
+Schmidt,Marie,H,Australie,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,5,16,5
+Ma,Xue,H,USA,Escrime fleuret,13,Epeeisme,Duel,1,null,null,8,12,20
+Girard,Maëlys,H,Turquie,Escrime fleuret,14,Epeeisme,Duel,1,null,null,13,3,15
+Ma,Guo,F,Chine,Escrime epée,16,Epeeisme,Duel,1,null,null,14,3,10
+Yamada,Riko,H,Turquie,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,2,19,19
+Lin,Xia,F,Brésil,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,19,2,2
+Huang,Huang,H,Maroc,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,3,11,6
+Guo,Yang,F,Australie,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,4,15,3
+Ogawa,Takeshi,H,Japon,Escrime epée,16,Epeeisme,Duel,1,null,null,7,17,12
+Mercier,Paul,F,USA,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,5,19,3
+Mori,Rina,H,Australie,Handball,7,Ballin,Duel,10,null,null,16,14,18
+He,Liu,F,Brésil,Natation relais libre,6,Natation,Score,4,34.3,45.7,6,14,15
+Garcia,Tom,H,France,Escrime fleuret,15,Epeeisme,Duel,1,null,null,3,12,15
+Zhou,Lan,F,Allemagne,Volley-Ball,11,Ballin,Duel,8,null,null,19,7,17
+Hasegawa,Sora,H,USA,Volley-Ball,11,Ballin,Duel,8,null,null,6,6,13
+Nakamura,Mio,H,Maroc,Escrime fleuret,15,Epeeisme,Duel,1,null,null,3,8,15
+Gao,Fang,H,Japon,Handball,9,Ballin,Duel,10,null,null,4,5,2
+Martin,Tom,F,USA,Volley-Ball,12,Ballin,Duel,8,null,null,12,3,10
+Murakami,Yusuke,H,France,Escrime fleuret,14,Epeeisme,Duel,1,null,null,14,1,8
+Saito,Yuna,H,Turquie,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,2,8,7
+Hayashi,Kokoro,F,Australie,Natation relais libre,4,Natation,Score,4,34.3,45.7,20,9,4
+Kondo,Akira,F,Japon,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,20,17,2
+Neumann,Moritz,F,Allemagne,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,16,15,7
+Maeda,Kokoro,H,France,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,7,7,11
+Mori,Sakura,F,Brésil,Escrime fleuret,15,Epeeisme,Duel,1,null,null,8,11,18
+Bauer,Julian,F,Kenya,Natation relais libre,5,Natation,Score,4,34.3,45.7,15,13,2
+Schmidt,Tim,F,Brésil,Escrime fleuret,13,Epeeisme,Duel,1,null,null,13,10,20
+Lehmann,Emilia,H,Australie,Handball,8,Ballin,Duel,10,null,null,2,18,8
+Matsumoto,Riko,H,Turquie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,11,16,8
+Suzuki,Ryota,H,France,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,17,12,10
+Richard,Hugo,H,Kenya,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,18,12,4
+Petit,Jules,H,USA,Natation relais libre,4,Natation,Score,4,34.3,45.7,3,17,2
+Suzuki,Naoki,H,Kenya,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,1,18,15
+Mercier,Lola,F,Japon,Natation relais libre,6,Natation,Score,4,34.3,45.7,3,19,15
+Gao,Ma,F,Brésil,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,15,1,3
+Yoshida,Yuna,H,France,Escrime epée,17,Epeeisme,Duel,1,null,null,9,18,6
+Lin,Ting,F,Japon,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,17,6,18
+Huang,Fang,H,France,Volley-Ball,12,Ballin,Duel,8,null,null,16,10,17
+Schmidt,Anna,H,Australie,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,15,9,10
+Sun,Zhou,F,Allemagne,Escrime fleuret,13,Epeeisme,Duel,1,null,null,2,17,14
+Watanabe,Yusuke,F,Kenya,Volley-Ball,12,Ballin,Duel,8,null,null,14,14,8
+Hayashi,Yui,H,Brésil,Handball,7,Ballin,Duel,10,null,null,10,9,15
+Robin,Tom,H,Chine,Escrime fleuret,13,Epeeisme,Duel,1,null,null,10,1,16
+Robin,Emma,H,Allemagne,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,13,8,2
+Schäfer,Tim,F,Japon,Escrime epée,17,Epeeisme,Duel,1,null,null,10,3,19
+Maeda,Aoi,F,Japon,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,20,12,10
+Xu,Yang,H,Kenya,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,18,16,6
+He,Ling,H,Kenya,Escrime fleuret,13,Epeeisme,Duel,1,null,null,9,13,20
+Hu,Sun,F,Chine,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,15,16,6
+Ma,Li,H,Brésil,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,10,9,11
+Xu,Xiang,H,Turquie,Volley-Ball,10,Ballin,Duel,8,null,null,10,11,19
+Ishikawa,Rin,H,Kenya,Natation relais libre,4,Natation,Score,4,34.3,45.7,10,9,8
+Hu,Qian,H,USA,Escrime fleuret,15,Epeeisme,Duel,1,null,null,15,7,19
+Murakami,Takeshi,F,Maroc,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,10,16,6
+Simon,Ethan,H,Maroc,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,2,2,11
+Faure,Alice,F,Maroc,Escrime epée,16,Epeeisme,Duel,1,null,null,12,18,13
+Gao,Guo,F,Allemagne,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,6,1,8
+Inoue,Haruka,H,Brésil,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,5,7,15
+Girard,Louise,F,Brésil,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,20,9,11
+Moreau,Sacha,F,Turquie,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,2,7,17
+Gao,Jing,H,Allemagne,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,2,5,8
+Zhu,Wang,H,Brésil,Natation relais libre,6,Natation,Score,4,34.3,45.7,16,20,10
+Chen,Wang,F,Chine,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,17,14,3
+Zhou,Min,F,Maroc,Natation relais libre,6,Natation,Score,4,34.3,45.7,16,14,13
+Schwarz,Lena,H,Allemagne,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,15,18,1
+Köhler,Luisa,F,Brésil,Escrime fleuret,13,Epeeisme,Duel,1,null,null,2,3,8
+Goto,Haruka,H,Chine,Natation relais libre,5,Natation,Score,4,34.3,45.7,18,17,17
+Shibata,Haruka,F,Maroc,Volley-Ball,11,Ballin,Duel,8,null,null,6,8,12
+Ma,Lan,H,Australie,Natation relais libre,5,Natation,Score,4,34.3,45.7,4,18,2
+Ito,Rina,F,Brésil,Handball,7,Ballin,Duel,10,null,null,20,9,18
+Chen,Jing,F,Australie,Handball,7,Ballin,Duel,10,null,null,14,2,17
+Ogawa,Kokoro,H,Allemagne,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,13,4,7
+Durand,Juliette,H,Maroc,Natation relais libre,6,Natation,Score,4,34.3,45.7,1,1,18
+Petit,Lucas,H,Kenya,Escrime epée,17,Epeeisme,Duel,1,null,null,12,17,8
+Richard,Emma,H,France,Escrime fleuret,14,Epeeisme,Duel,1,null,null,18,9,14
+Wu,Liu,F,Maroc,Escrime fleuret,13,Epeeisme,Duel,1,null,null,7,6,3
+Maeda,Yuto,H,Maroc,Natation relais libre,6,Natation,Score,4,34.3,45.7,5,8,13
+Takahashi,Aoi,F,Maroc,Escrime fleuret,15,Epeeisme,Duel,1,null,null,3,18,1
+Laurent,Lola,H,Chine,Handball,8,Ballin,Duel,10,null,null,6,19,5
+Tanaka,Ryota,H,Brésil,Natation relais libre,5,Natation,Score,4,34.3,45.7,5,9,2
+Ishii,Mio,F,Allemagne,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,9,19,4
+Saito,Yuki,F,Australie,Natation relais libre,5,Natation,Score,4,34.3,45.7,13,18,5
+Fontaine,Manon,F,Chine,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,4,1,7
+He,Xin,H,Japon,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,3,9,8
+Ma,Min,F,Australie,Escrime fleuret,15,Epeeisme,Duel,1,null,null,10,4,7
+Wang,Xia,H,Allemagne,Handball,9,Ballin,Duel,10,null,null,5,7,9
+Matsumoto,Ren,F,Japon,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,8,1,8
+Ito,Yui,H,Brésil,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,20,7,1
+Kato,Rina,H,Chine,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,11,7,16
+Schäfer,Emilia,H,USA,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,20,20,2
+Leroy,Emma,H,Japon,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,2,19,18
+Hayashi,Ryota,H,Turquie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,15,17,11
+Sun,Jing,F,Turquie,Handball,7,Ballin,Duel,10,null,null,18,6,19
+Liu,Wang,F,Kenya,Escrime fleuret,15,Epeeisme,Duel,1,null,null,20,7,10
+Guo,Jun,F,Allemagne,Natation relais libre,4,Natation,Score,4,34.3,45.7,18,11,13
+Yamada,Naoki,F,Allemagne,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,7,12,2
+Garcia,Arthur,H,Kenya,Escrime epée,18,Epeeisme,Duel,1,null,null,18,1,17
+Ishikawa,Sora,H,USA,Escrime fleuret,15,Epeeisme,Duel,1,null,null,3,14,5
+Petit,Jade,F,Brésil,Handball,9,Ballin,Duel,10,null,null,8,2,10
+Kobayashi,Daiki,F,Australie,Escrime fleuret,14,Epeeisme,Duel,1,null,null,1,4,13
+Hasegawa,Yuki,F,Allemagne,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,11,19,12
+Nakamura,Riko,F,Brésil,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,17,14,11
+Hartmann,Hannah,F,Brésil,Escrime fleuret,15,Epeeisme,Duel,1,null,null,6,12,13
+Robert,Inès,F,Brésil,Volley-Ball,11,Ballin,Duel,8,null,null,2,2,2
+Blanc,Gabin,F,Kenya,Natation relais libre,4,Natation,Score,4,34.3,45.7,11,6,17
+Xu,Yan,F,Japon,Escrime epée,17,Epeeisme,Duel,1,null,null,5,5,10
+Saito,Daiki,F,Maroc,Natation relais libre,6,Natation,Score,4,34.3,45.7,6,12,4
+Lefevre,Zoé,H,Kenya,Escrime fleuret,13,Epeeisme,Duel,1,null,null,8,12,15
+Leroy,Jules,H,Turquie,Natation relais libre,4,Natation,Score,4,34.3,45.7,11,4,6
+Schwarz,Leon,H,USA,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,6,12,8
+Yamada,Riko,H,Kenya,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,2,17,1
+Sato,Yuto,H,Brésil,Escrime fleuret,13,Epeeisme,Duel,1,null,null,17,9,15
+Wu,Xiang,F,Maroc,Escrime fleuret,15,Epeeisme,Duel,1,null,null,14,11,12
+Ogawa,Naoki,F,Brésil,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,1,2,18
+Guerin,Anna,H,France,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,10,11,9
+Yamamoto,Mio,H,USA,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,4,10,19
+Lin,Liu,H,France,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,6,4,11
+Ogawa,Haruka,F,France,Natation relais libre,5,Natation,Score,4,34.3,45.7,4,12,19
+Hasegawa,Yuto,H,Japon,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,18,5,6
+Petit,Manon,H,Japon,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,1,12,14
+Meyer,Hannah,H,Brésil,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,17,20,6
+Dupont,Sarah,H,Maroc,Natation relais libre,4,Natation,Score,4,34.3,45.7,17,16,5
+Koch,Lina,F,Brésil,Escrime epée,17,Epeeisme,Duel,1,null,null,15,18,2
+Wang,Zhao,H,USA,Volley-Ball,11,Ballin,Duel,8,null,null,2,18,16
+Wu,Guo,F,Turquie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,15,18,13
+Sakamoto,Daiki,F,Brésil,Natation relais libre,4,Natation,Score,4,34.3,45.7,19,2,9
+Sasaki,Sora,F,Kenya,Handball,9,Ballin,Duel,10,null,null,12,20,7
+Zhang,Zhang,F,Brésil,Escrime fleuret,15,Epeeisme,Duel,1,null,null,5,8,16
+Ishikawa,Ryota,H,Kenya,Natation relais libre,6,Natation,Score,4,34.3,45.7,16,16,10
+Gao,Fang,H,Maroc,Escrime epée,16,Epeeisme,Duel,1,null,null,14,1,14
+Guerin,Manon,H,Brésil,Natation relais libre,6,Natation,Score,4,34.3,45.7,13,14,9
+Nakamura,Yuto,F,Chine,Escrime epée,16,Epeeisme,Duel,1,null,null,20,5,2
+Laurent,Nolan,H,Japon,Natation relais libre,5,Natation,Score,4,34.3,45.7,1,5,1
+Huang,Zhang,H,France,Natation relais libre,4,Natation,Score,4,34.3,45.7,6,6,5
+Hoffmann,Mia,F,Japon,Escrime fleuret,13,Epeeisme,Duel,1,null,null,5,12,19
+Ishikawa,Yuki,H,Brésil,Escrime epée,16,Epeeisme,Duel,1,null,null,20,19,2
+Wu,Zhu,H,Japon,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,19,18,2
+Saito,Takumi,H,Chine,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,12,17,10
+Yamaguchi,Yuna,H,Kenya,Volley-Ball,12,Ballin,Duel,8,null,null,5,13,17
+Yamamoto,Yuma,F,Chine,Handball,8,Ballin,Duel,10,null,null,11,17,10
+Saito,Yuna,F,Chine,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,19,4,10
+Leroy,Zoé,H,Kenya,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,7,17,4
+Lefebvre,Nolan,F,Kenya,Escrime fleuret,14,Epeeisme,Duel,1,null,null,3,11,9
+Goto,Takeshi,H,Australie,Escrime fleuret,13,Epeeisme,Duel,1,null,null,14,2,10
+Vincent,Inès,H,Allemagne,Handball,9,Ballin,Duel,10,null,null,6,10,15
+Wang,Xue,H,France,Volley-Ball,10,Ballin,Duel,8,null,null,9,6,10
+Perez,Alice,F,Brésil,Natation relais libre,4,Natation,Score,4,34.3,45.7,5,14,14
+Yamaguchi,Yuki,F,Brésil,Escrime fleuret,14,Epeeisme,Duel,1,null,null,16,6,10
+Kato,Yuki,F,Japon,Escrime fleuret,14,Epeeisme,Duel,1,null,null,6,5,15
+Giraud,Juliette,H,Allemagne,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,9,8,3
+Martin,Chloé,F,Japon,Escrime epée,17,Epeeisme,Duel,1,null,null,13,12,6
+Leroy,Juliette,H,Chine,Natation relais libre,5,Natation,Score,4,34.3,45.7,11,18,19
+Dubois,Tom,H,USA,Volley-Ball,11,Ballin,Duel,8,null,null,3,13,2
+Martin,Léna,F,Chine,Natation relais libre,5,Natation,Score,4,34.3,45.7,17,1,8
+Zhang,Jun,H,Maroc,Volley-Ball,12,Ballin,Duel,8,null,null,12,5,8
+Shimizu,Riku,F,Turquie,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,11,18,13
+Guo,He,F,Maroc,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,12,13,13
+Nakamura,Kokoro,F,Turquie,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,5,13,17
+Meyer,Emilia,H,Turquie,Escrime epée,18,Epeeisme,Duel,1,null,null,2,5,3
+Thomas,Nolan,F,USA,Escrime epée,16,Epeeisme,Duel,1,null,null,11,5,1
+Murakami,Yui,F,Brésil,Escrime fleuret,15,Epeeisme,Duel,1,null,null,16,18,7
+Liu,Yan,F,Brésil,Natation relais libre,6,Natation,Score,4,34.3,45.7,9,10,13
+Guerin,Lucas,H,Australie,Natation relais libre,6,Natation,Score,4,34.3,45.7,14,7,6
+Ma,Qian,F,France,Handball,7,Ballin,Duel,10,null,null,5,15,19
+Li,Shuang,H,Australie,Handball,7,Ballin,Duel,10,null,null,5,9,10
+Zhou,Lan,F,Chine,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,12,18,1
+Kimura,Takeshi,H,Maroc,Volley-Ball,10,Ballin,Duel,8,null,null,16,9,2
+Sakamoto,Takumi,F,Maroc,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,14,2,10
+Suzuki,Shiori,H,Allemagne,Handball,8,Ballin,Duel,10,null,null,6,1,18
+Sakamoto,Takeshi,H,USA,Volley-Ball,11,Ballin,Duel,8,null,null,16,12,13
+Hasegawa,Yusuke,F,Maroc,Volley-Ball,12,Ballin,Duel,8,null,null,3,14,10
+Tanaka,Haruka,H,Chine,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,2,15,17
+Yoshida,Daiki,F,USA,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,12,2,7
+Saito,Yusuke,F,Kenya,Natation relais libre,4,Natation,Score,4,34.3,45.7,8,11,16
+Zimmermann,Luca,H,Brésil,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,18,15,13
+Laurent,Paul,H,France,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,13,13,11
+Schwarz,Felix,H,Turquie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,14,8,6
+Murakami,Shiori,F,Brésil,Escrime fleuret,14,Epeeisme,Duel,1,null,null,19,12,12
+Shibata,Rina,F,USA,Volley-Ball,12,Ballin,Duel,8,null,null,15,12,14
+Watanabe,Naoki,F,Australie,Volley-Ball,10,Ballin,Duel,8,null,null,13,3,12
+Liu,Yan,F,France,Escrime epée,16,Epeeisme,Duel,1,null,null,8,15,13
+Vincent,Arthur,H,Japon,Handball,9,Ballin,Duel,10,null,null,11,1,8
+Yang,Yan,H,USA,Handball,8,Ballin,Duel,10,null,null,16,6,4
+Yamamoto,Kazuki,F,France,Escrime epée,18,Epeeisme,Duel,1,null,null,18,7,16
+Richter,Anna,F,Kenya,Escrime epée,17,Epeeisme,Duel,1,null,null,15,12,17
+Wu,Guo,F,Maroc,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,4,13,8
+Robin,Alice,H,USA,Natation relais libre,4,Natation,Score,4,34.3,45.7,17,20,11
+Morel,Alice,F,France,Handball,7,Ballin,Duel,10,null,null,18,17,5
+Liu,Hu,F,Chine,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,9,14,10
+Herrmann,Leon,F,Maroc,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,15,19,11
+Li,Zhou,H,USA,Escrime epée,18,Epeeisme,Duel,1,null,null,11,15,2
+Kimura,Riku,F,USA,Natation relais libre,5,Natation,Score,4,34.3,45.7,8,15,20
+Takahashi,Saki,F,Australie,Handball,9,Ballin,Duel,10,null,null,3,13,18
+Takahashi,Yui,H,Kenya,Escrime epée,18,Epeeisme,Duel,1,null,null,12,15,4
+Hu,Ling,H,Australie,Handball,8,Ballin,Duel,10,null,null,15,8,18
+Shimizu,Nana,F,Japon,Natation relais libre,4,Natation,Score,4,34.3,45.7,14,2,20
+Garcia,Jules,H,France,Handball,7,Ballin,Duel,10,null,null,4,3,9
+Laurent,Louis,H,USA,Escrime epée,18,Epeeisme,Duel,1,null,null,10,8,20
+Laurent,Lucas,H,Australie,Escrime fleuret,13,Epeeisme,Duel,1,null,null,3,8,8
+Koch,Julian,F,USA,Handball,8,Ballin,Duel,10,null,null,5,12,3
+Gao,Hong,F,Maroc,Natation relais libre,4,Natation,Score,4,34.3,45.7,11,4,10
+Takahashi,Saki,F,Kenya,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,3,7,11
+Mercier,Ethan,F,Brésil,Volley-Ball,10,Ballin,Duel,8,null,null,6,15,13
+Thomas,Zoé,F,Maroc,Volley-Ball,12,Ballin,Duel,8,null,null,2,12,19
+Fujita,Kaito,H,USA,Escrime epée,16,Epeeisme,Duel,1,null,null,19,18,12
+Hasegawa,Saki,F,Turquie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,19,17,5
+Sato,Rina,H,Turquie,Handball,7,Ballin,Duel,10,null,null,8,17,14
+Michel,Alice,H,Japon,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,1,14,20
+Ma,Wei,H,Allemagne,Escrime epée,17,Epeeisme,Duel,1,null,null,2,17,20
+Rousseau,Ethan,H,Maroc,Natation relais libre,6,Natation,Score,4,34.3,45.7,5,6,1
+Ishii,Takeshi,H,Allemagne,Volley-Ball,10,Ballin,Duel,8,null,null,3,9,15
+Schmitt,Laura,F,Japon,Handball,7,Ballin,Duel,10,null,null,20,15,12
+Liu,Xia,F,Turquie,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,14,10,5
+Lefebvre,Camille,F,Allemagne,Escrime fleuret,15,Epeeisme,Duel,1,null,null,3,16,10
+Saito,Yui,F,Japon,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,18,5,1
+Laurent,Gabin,H,Kenya,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,9,12,15
+Girard,Théo,H,Japon,Escrime epée,18,Epeeisme,Duel,1,null,null,8,3,9
+Nakamura,Asuka,F,Japon,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,8,3,13
+Garcia,Inès,F,France,Escrime epée,17,Epeeisme,Duel,1,null,null,18,14,14
+Wang,Qian,F,Chine,Natation relais libre,6,Natation,Score,4,34.3,45.7,18,17,3
+Goto,Sora,F,Kenya,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,1,12,7
+Barbier,Jade,H,Japon,Handball,9,Ballin,Duel,10,null,null,14,20,15
+Shibata,Naoki,F,Kenya,Handball,7,Ballin,Duel,10,null,null,9,6,18
+Zhou,Ling,H,France,Escrime epée,18,Epeeisme,Duel,1,null,null,4,6,18
+Wang,Zhao,H,USA,Natation relais libre,4,Natation,Score,4,34.3,45.7,19,3,10
+Tanaka,Hinata,H,Australie,Handball,8,Ballin,Duel,10,null,null,5,8,10
+Zhou,Wu,H,USA,Escrime fleuret,13,Epeeisme,Duel,1,null,null,7,5,14
+Liu,Lan,F,Japon,Handball,8,Ballin,Duel,10,null,null,19,5,12
+Suzuki,Sora,H,Japon,Natation relais libre,5,Natation,Score,4,34.3,45.7,16,2,2
+Sakai,Yusuke,F,Brésil,Escrime epée,17,Epeeisme,Duel,1,null,null,8,18,15
+Zhang,Jing,H,Maroc,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,14,17,1
+Murakami,Hana,F,Australie,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,16,20,19
+Hayashi,Takumi,H,Chine,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,16,13,19
+Klein,Hannah,H,Chine,Natation relais libre,5,Natation,Score,4,34.3,45.7,6,16,18
+Krause,Julian,F,Japon,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,14,1,11
+Yamamoto,Takeshi,F,Maroc,Escrime epée,16,Epeeisme,Duel,1,null,null,20,4,3
+Yamada,Takeshi,F,Chine,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,12,7,3
+Maier,Emma,H,Brésil,Escrime fleuret,13,Epeeisme,Duel,1,null,null,15,15,8
+Bernard,Jules,F,Turquie,Natation relais libre,5,Natation,Score,4,34.3,45.7,4,7,11
+Liu,Qian,F,Brésil,Escrime fleuret,14,Epeeisme,Duel,1,null,null,2,9,20
+Zhang,Yan,F,Japon,Handball,9,Ballin,Duel,10,null,null,6,15,19
+Richard,Léa,F,Maroc,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,19,16,4
+Martin,Tom,F,Brésil,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,2,9,20
+Dubois,Anna,H,Chine,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,5,9,3
+Sun,Wang,H,France,Handball,8,Ballin,Duel,10,null,null,14,17,8
+Roux,Nolan,F,Turquie,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,4,5,7
+Hasegawa,Yui,H,Chine,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,20,6,15
+Werner,Clara,H,France,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,8,1,13
+Fontaine,Théo,F,Brésil,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,18,8,20
+Girard,Jules,F,Brésil,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,1,1,4
+Watanabe,Hiroshi,H,Maroc,Escrime fleuret,15,Epeeisme,Duel,1,null,null,5,18,1
+Tanaka,Rina,F,France,Escrime epée,17,Epeeisme,Duel,1,null,null,12,10,13
+Sakamoto,Mio,F,Turquie,Natation relais libre,6,Natation,Score,4,34.3,45.7,19,15,15
+Fournier,Nolan,H,Brésil,Escrime epée,18,Epeeisme,Duel,1,null,null,18,10,7
+Takahashi,Shiori,H,Kenya,Handball,9,Ballin,Duel,10,null,null,3,3,13
+Lambert,Noé,H,Allemagne,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,13,18,10
+Lefebvre,Camille,H,Japon,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,10,18,19
+Shimizu,Akira,F,Maroc,Handball,9,Ballin,Duel,10,null,null,3,18,19
+Suzuki,Shiori,H,Kenya,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,14,4,8
+Lin,Wei,F,USA,Volley-Ball,12,Ballin,Duel,8,null,null,14,4,1
+Wu,Wu,F,Chine,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,14,9,8
+He,Xue,H,Allemagne,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,2,15,16
+Garcia,Lucas,H,Japon,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,8,18,14
+Watanabe,Yuna,H,Kenya,Handball,8,Ballin,Duel,10,null,null,9,8,16
+Goto,Kaito,F,Kenya,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,7,20,10
+Nakamura,Akira,F,Maroc,Escrime epée,16,Epeeisme,Duel,1,null,null,13,6,15
+He,Wei,F,France,Escrime epée,17,Epeeisme,Duel,1,null,null,13,10,13
+Yoshida,Daiki,H,Maroc,Handball,8,Ballin,Duel,10,null,null,1,11,2
+Blanc,Louis,H,Turquie,Volley-Ball,11,Ballin,Duel,8,null,null,10,17,18
+Kobayashi,Yui,F,USA,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,3,20,20
+Saito,Ryota,H,Kenya,Escrime epée,16,Epeeisme,Duel,1,null,null,19,13,17
+Dubois,Lucas,F,France,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,11,19,1
+Zhao,Jun,H,Allemagne,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,9,16,19
+Saito,Riko,F,Allemagne,Escrime epée,18,Epeeisme,Duel,1,null,null,17,20,7
+Girard,Louise,H,Chine,Escrime fleuret,15,Epeeisme,Duel,1,null,null,7,16,11
+Wolf,Lena,F,Australie,Handball,9,Ballin,Duel,10,null,null,2,7,7
+Ishikawa,Nana,F,France,Athétisme 110 haies,19,Athletisme,Score,1,7.45,11.3,15,17,6
+Suzuki,Akira,F,Turquie,Escrime epée,18,Epeeisme,Duel,1,null,null,4,20,10
+Maeda,Yuki,F,Australie,Handball,9,Ballin,Duel,10,null,null,11,9,3
+Robert,Lola,H,Kenya,Natation relais libre,6,Natation,Score,4,34.3,45.7,12,10,7
+Tanaka,Haruka,H,Maroc,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,3,17,8
+Thomas,Mathis,H,Japon,Escrime epée,17,Epeeisme,Duel,1,null,null,8,3,14
+Werner,Moritz,F,Maroc,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,15,14,13
+Suzuki,Akira,H,Chine,Natation relais libre,6,Natation,Score,4,34.3,45.7,7,16,16
+Huang,Xiang,F,Brésil,Volley-Ball,11,Ballin,Duel,8,null,null,5,1,16
+Goto,Kokoro,H,Japon,Escrime fleuret,15,Epeeisme,Duel,1,null,null,8,18,3
+Maeda,Asuka,H,Brésil,Handball,8,Ballin,Duel,10,null,null,12,19,20
+Hofmann,Felix,F,Allemagne,Escrime fleuret,13,Epeeisme,Duel,1,null,null,5,7,6
+Schäfer,Niklas,F,Maroc,Escrime fleuret,13,Epeeisme,Duel,1,null,null,9,19,7
+Lambert,Anna,H,Kenya,Escrime fleuret,13,Epeeisme,Duel,1,null,null,2,5,20
+Blanc,Anna,H,Maroc,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,18,6,9
+Murakami,Naoki,H,Turquie,Escrime epée,17,Epeeisme,Duel,1,null,null,2,14,4
+Chen,Min,F,Japon,Volley-Ball,12,Ballin,Duel,8,null,null,10,12,10
+Gao,Huang,H,France,Escrime epée,17,Epeeisme,Duel,1,null,null,19,19,13
+Liu,Chen,H,Australie,Natation relais libre,4,Natation,Score,4,34.3,45.7,12,11,1
+Klein,Tom,F,USA,Handball,9,Ballin,Duel,10,null,null,6,18,16
+Ito,Yuna,F,France,Escrime fleuret,15,Epeeisme,Duel,1,null,null,1,3,9
+Fontaine,Arthur,H,Japon,Handball,8,Ballin,Duel,10,null,null,16,14,13
+Moreau,Inès,H,USA,Natation 100 brasse,2,Natation,Score,1,14.3,22.1,7,8,7
+Fontaine,Clara,F,USA,Escrime epée,18,Epeeisme,Duel,1,null,null,10,14,18
+Rousseau,Nolan,F,Australie,Escrime fleuret,14,Epeeisme,Duel,1,null,null,2,7,16
+Xu,Ting,H,Kenya,Handball,8,Ballin,Duel,10,null,null,7,7,17
+Maeda,Daiki,H,Brésil,Handball,9,Ballin,Duel,10,null,null,7,5,5
+Zhou,Shuang,F,Kenya,Escrime fleuret,13,Epeeisme,Duel,1,null,null,14,1,5
+Garcia,Jules,H,Kenya,Handball,9,Ballin,Duel,10,null,null,19,20,18
+Ishikawa,Yui,F,Turquie,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,9,7,19
+Gao,Ma,F,Allemagne,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,8,20,14
+Saito,Sakura,F,Australie,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,20,17,1
+Fournier,Manon,F,USA,Natation relais libre,5,Natation,Score,4,34.3,45.7,4,13,20
+Zhu,Xia,F,USA,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,9,16,3
+Sun,Wei,F,Chine,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,13,7,7
+Ishikawa,Kazuki,F,Brésil,Escrime epée,17,Epeeisme,Duel,1,null,null,16,3,11
+Matsumoto,Rin,F,Japon,Natation relais libre,4,Natation,Score,4,34.3,45.7,5,12,13
+Moreau,Chloé,H,Australie,Athétisme 110 haies,21,Athletisme,Score,1,7.45,11.3,16,17,14
+Zhao,Xin,F,Japon,Natation 100 brasse,1,Natation,Score,1,14.3,22.1,12,6,3
+Giraud,Léa,F,Allemagne,Volley-Ball,10,Ballin,Duel,8,null,null,17,20,4
+Laurent,Jules,H,Brésil,Escrime fleuret,15,Epeeisme,Duel,1,null,null,5,13,9
+Guo,Yang,F,Allemagne,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,4,12,14
+Yoshida,Yuma,H,Australie,Athétisme 110 haies,20,Athletisme,Score,1,7.45,11.3,8,1,6
+Leroy,Jade,H,Japon,Natation 100 brasse,3,Natation,Score,1,14.3,22.1,15,12,15
+Gao,Xin,F,France,Escrime fleuret,13,Epeeisme,Duel,1,null,null,11,13,17
+Petit,Louis,F,Maroc,Natation relais libre,5,Natation,Score,4,34.3,45.7,5,17,17
+Fujita,Sora,F,Allemagne,Escrime epée,17,Epeeisme,Duel,1,null,null,11,12,9
+Girard,Léna,F,Kenya,Handball,7,Ballin,Duel,10,null,null,3,20,3
